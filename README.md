@@ -1,13 +1,21 @@
-Câu 1: Mong muôn và định hướng sau khi học xong môn học
-Sau khi học xong môn lập trình di động, mong muốn của tôi là:
+Câu 1: Mong muôn và định hướng sau khi học xong môn học sau khi học xong môn lập trình di động, mong muốn của tôi là:
+
 • Trở thành một nhà phát triển ứng dụng di động chuyên nghiệp
+
 • Có khả năng tạo ra các ứng dụng đáp ứng nhu cầu người dùng với trải nghiệm tốt
+
 • Tham gia vào các dự án thực tế để áp dụng kiến thức đã học
+
 • Tiếp tục nghiên cứu các công nghệ mới trong lĩnh vực phát triển di động
+
 Định hướng nghề nghiệp:
+
 • Tham gia làm việc tại các công ty phát triển phần mềm
+
 • Phát triển các ứng dụng cá nhân và đưa lên cửa hàng ứng dụng
+
 • Mở rộng kiến thức sang các nền tảng khác như iOS, Flutter
+
 
 Câu2. Theo bạn, trong tương lai gần (10 năm) lập trình di động
 có phát triển không? Giải thích tại sao?
